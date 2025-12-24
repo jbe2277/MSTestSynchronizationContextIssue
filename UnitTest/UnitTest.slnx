@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="UnitTest.MSTest/UnitTest.MSTest.csproj" />
+  <Project Path="UnitTest.XUnit/UnitTest.XUnit.csproj" />
+  <Project Path="UnitTestOld.MSTest/UnitTestOld.MSTest.csproj" />
+</Solution>
